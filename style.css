@@ -297,6 +297,14 @@ footer p{
         padding: 10px;
     }
 }
+@media screen and (max-width: 992px){
+    .sect2 .first-texts{
+        padding-left: 25px;
+    }
+    .sect2 .first-texts h3{
+        font-size: 1.8em;
+    }
+}
 @media screen and (max-width: 761px) {
     .sect1{
         display: flex;
